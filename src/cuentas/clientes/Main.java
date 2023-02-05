@@ -1,7 +1,7 @@
 package cuentas.clientes;
 
 public class Main {
-boolean pruebaGit;
+
     public static void main(String[] args) {
         operativa_cuenta(null);
         
